@@ -1,0 +1,38 @@
+export const stockData = [
+    {
+      name: "Twitter Inc",
+      keyWords: "TWTR",
+      bidAmount: 22,
+      campaignFund: 1000,
+      town: "NY",
+      radius: 50,
+      status: true,
+    },
+    {
+        name: "Twitter Inc",
+        keyWords: "TWTR",
+        bidAmount: 22,
+        campaignFund: 1000,
+        town: "NY",
+        radius: 50,
+        status: true,
+      },
+      {
+        name: "Twitter Inc",
+        keyWords: "TWTR",
+        bidAmount: 22,
+        campaignFund: 1000,
+        town: "NY",
+        radius: 50,
+        status: true,
+      },
+      {
+        name: "Twitter Inc",
+        keyWords: "TWTR",
+        bidAmount: 22,
+        campaignFund: 1000,
+        town: "NY",
+        radius: 50,
+        status: true,
+      },
+  ];
